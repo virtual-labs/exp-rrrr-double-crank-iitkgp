@@ -1,4 +1,4 @@
-#### Subject Matter Expert
+## Subject Matter Expert
 
 <b>Name of Developer | <b> **Dr. Kingshook Bhattacharyya**
 :--|:--|
@@ -7,7 +7,7 @@
 <b> Department |  **Department of Mechanical Engineering**
 <b>Webpage| <b> [http://www.iitkgp.ac.in/department/ME/faculty/me-king](http://www.iitkgp.ac.in/cv/me-king)
 
-#### Contributors list
+## Contributors list
 
 SrNo | Name | VLabs Developer or Integration Engineer | Designation | Department| Institute
 :--|:--|:--|:--|:--|:--|
